@@ -2,5 +2,5 @@
 
 
 
-![Andwati's github stats](https://github-readme-stats.vercel.app/api?username=Ian-Andwati&count_private=true)
+![Andwati's github stats](https://github-readme-stats.vercel.app/api?username=Ian-Andwati&count_private=true&show_icons=true&theme=dracula)
 
