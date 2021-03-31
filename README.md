@@ -15,4 +15,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andwati&" alt="andwati" /></p> 
 
 <br>
-[![HitCount](http://hits.dwyl.com/andwati/andwati.svg)](http://hits.dwyl.com/andwati/andwati)
+
+
+![GitHub search hit counter](https://img.shields.io/github/search/andwati/andwati/goto?style=for-the-badge)
