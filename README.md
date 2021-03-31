@@ -13,3 +13,6 @@
 [![Andwati's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ian_Andwati)](https://github.com/anuraghazra/github-readme-stats)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andwati&" alt="andwati" /></p> 
+
+<br>
+[![HitCount](http://hits.dwyl.com/andwati/andwati.svg)](http://hits.dwyl.com/andwati/andwati)
