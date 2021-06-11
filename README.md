@@ -8,9 +8,3 @@
 <br>
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andwati&langs_count=10&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
-<br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andwati&" alt="andwati" /></p> 
-
-<br>
-
-[![Contributors Display](https://badges.pufler.dev/contributors/andwati/andwati?size=50&padding=5&bots=true)](https://badges.pufler.dev)
