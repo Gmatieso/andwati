@@ -9,5 +9,3 @@
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andwati&langs_count=10&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 <br>
-[![Andwati wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ian_Andwati&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
