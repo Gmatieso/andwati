@@ -1,0 +1,22 @@
+{
+  "name": "andwati-readme",
+  "version": "1.0.0",
+  "description": "[![Visits Badge](https://badges.pufler.dev/visits/andwati/andwati)](https://badges.pufler.dev)\r [![Years Badge](https://badges.pufler.dev/years/andwati)](https://badges.pufler.dev)\r [![Created Badge](https://badges.pufler.dev/created/andwati/andwati)](https://badges.pufler.dev)\r [![Repos Badge](https://badges.pufler.dev/repos/andwati)](https://badges.pufler.dev)\r <br>\r <br>\r ![Github stats](https://github-readme-stats.vercel.app/api?username=andwati&count_private=true&show_icons=true&theme=cobalt)\r <br>\r <br>\r [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andwati&langs_count=10&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)\r <br>\r <p align=\"center\"><img align=\"center\" src=\"https://activity-graph.herokuapp.com/graph?username=andwati&theme=github&bg_color=ffffff00&color=2800f0&point=a35eff&line=15f4ee&custom_title=Last%20month%20GitHub%20activity&hide_border=true&area=true\" alt=\"Andwati's monthly coding activity\" /></p>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andwati/andwati.git"
+  },
+  "author": "Andwati",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andwati/andwati/issues"
+  },
+  "homepage": "https://github.com/andwati/andwati#readme",
+  "dependencies": {
+    "mustache": "^4.2.0"
+  }
+}
