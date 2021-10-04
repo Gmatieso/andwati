@@ -1,3 +1,4 @@
+### Stats
 [![Visits Badge](https://badges.pufler.dev/visits/andwati/andwati)](https://badges.pufler.dev)
 [![Years Badge](https://badges.pufler.dev/years/andwati)](https://badges.pufler.dev)
 [![Created Badge](https://badges.pufler.dev/created/andwati/andwati)](https://badges.pufler.dev)
@@ -7,6 +8,8 @@
 ![Github stats](https://github-readme-stats.vercel.app/api?username=andwati&count_private=true&show_icons=true&theme=cobalt)
 <br>
 <br>
+### Languages
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andwati&langs_count=10&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 ### Contact
