@@ -3,12 +3,17 @@
 [![Years Badge](https://badges.pufler.dev/years/andwati)](https://badges.pufler.dev)
 [![Created Badge](https://badges.pufler.dev/created/andwati/andwati)](https://badges.pufler.dev)
 [![Repos Badge](https://badges.pufler.dev/repos/andwati)](https://badges.pufler.dev)
+[![wakatime](https://wakatime.com/badge/user/54c43dc6-77cf-4077-8356-ce4c25312870.svg)](https://wakatime.com/@54c43dc6-77cf-4077-8356-ce4c25312870)
 <br>
 <br>
 ![Github stats](https://github-readme-stats.vercel.app/api?username=andwati&count_private=true&show_icons=true&theme=cobalt)
 <br>
+[![Andwati wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ian_Andwati&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <br>
+
 ### Languages
+
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![GO](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
