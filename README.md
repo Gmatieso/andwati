@@ -1,4 +1,5 @@
 ### Stats
+
 [![Lines](https://tokei.rs/b1/github/andwati/andwati)](https://github.com/andwati/andwati)
 [![Visits Badge](https://badges.pufler.dev/visits/andwati/andwati)](https://badges.pufler.dev)
 [![Years Badge](https://badges.pufler.dev/years/andwati)](https://badges.pufler.dev)
