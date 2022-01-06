@@ -7,6 +7,7 @@
 [![Repos Badge](https://badges.pufler.dev/repos/andwati)](https://badges.pufler.dev)
 [![wakatime](https://wakatime.com/badge/user/54c43dc6-77cf-4077-8356-ce4c25312870.svg)](https://wakatime.com/@54c43dc6-77cf-4077-8356-ce4c25312870)
 <br>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andwati" alt="andwati" /></p>
 <br>
 
