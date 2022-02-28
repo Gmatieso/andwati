@@ -11,7 +11,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andwati&theme=city-lights" alt="andwati" /></p>
 <br>
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=andwati&count_private=true&show_icons=true&theme=city_lights)
+![Github stats](https://github-readme-stats.vercel.app/api?username=andwati&count_private=true&show_icons=true&theme=city_lights&hide_border=True)
 <br>
 
 ### Languages
@@ -22,4 +22,4 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andwati&langs_count=10&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andwati&langs_count=10&layout=compact&theme=city_lights&hide_border=True)](https://github.com/anuraghazra/github-readme-stats)
