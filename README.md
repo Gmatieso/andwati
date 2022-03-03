@@ -15,12 +15,4 @@
 ![Github stats](https://github-readme-stats.vercel.app/api?username=andwati&count_private=true&show_icons=true&theme=city_lights&hide_border=True)
 <br>
 
-### Languages
-
-![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![GO](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andwati&langs_count=10&layout=compact&theme=city_lights&hide_border=True)](https://github.com/anuraghazra/github-readme-stats)
