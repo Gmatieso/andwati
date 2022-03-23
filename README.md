@@ -4,6 +4,7 @@
 
 [![Lines](https://tokei.rs/b1/github/andwati/andwati)](https://github.com/andwati/andwati)
 [![Visits Badge](https://badges.pufler.dev/visits/andwati/andwati)](https://badges.pufler.dev)
+<img src="https://komarev.com/ghpvc/?username=andwati" alt="andwati" />
 [![Years Badge](https://badges.pufler.dev/years/andwati)](https://badges.pufler.dev)
 [![Created Badge](https://badges.pufler.dev/created/andwati/andwati)](https://badges.pufler.dev)
 [![Repos Badge](https://badges.pufler.dev/repos/andwati)](https://badges.pufler.dev)
