@@ -1,4 +1,5 @@
 ### hi, there <img align="center" alt="Android" width="55" src="https://media.giphy.com/media/Y4bzv6DYbYzy8jDnoW/giphy.gif"/>
+- <img src="https://api.iconify.design/cib:manjaro.svg" /> Manjaro Linux user
 ### Stats
 
 [![Lines](https://tokei.rs/b1/github/andwati/andwati)](https://github.com/andwati/andwati)
