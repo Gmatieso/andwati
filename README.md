@@ -30,3 +30,5 @@
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andwati&langs_count=10&layout=compact&theme=city_lights&hide_border=True)](https://github.com/anuraghazra/github-readme-stats)
+
+<img height="250px" align="center" alt="ethereum_logo" src="/eth.gif" />
