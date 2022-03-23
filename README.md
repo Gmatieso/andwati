@@ -8,6 +8,19 @@
 [![Repos Badge](https://badges.pufler.dev/repos/andwati)](https://badges.pufler.dev)
 [![wakatime](https://wakatime.com/badge/user/54c43dc6-77cf-4077-8356-ce4c25312870.svg)](https://wakatime.com/@54c43dc6-77cf-4077-8356-ce4c25312870)
 <br>
+### Tech Stack
+<p align="center">
+  <img src="https://api.iconify.design/logos:figma.svg" height="48px" width="48px" align="center" />
+  <img src="https://api.iconify.design/logos:typescript-icon.svg" height="48px" width="48px" align="center" />
+  <img src="https://api.iconify.design/vscode-icons:file-type-go-gopher.svg" height="48px" width="48px" align="center" />
+  <img src="https://api.iconify.design/logos:react.svg" height="48px" width="48px" align="center" />
+  <img src="https://api.iconify.design/vscode-icons:file-type-caddy.svg" height="48px" width="48px" align="center" />
+  <img src="https://api.iconify.design/vscode-icons:file-type-light-pnpm.svg" height="48px" width="48px" align="center" />
+  <img src="https://api.iconify.design/file-icons:nextjs.svg" height="48px" width="48px" align="center" />
+  <img src="https://api.iconify.design/logos:graphql.svg" height="48px" width="48px" align="center" />
+</p>
+
+### Streaks :fire:
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andwati&theme=city-lights" alt="andwati" /></p>
 <br>
