@@ -10,16 +10,13 @@
 [![Repos Badge](https://badges.pufler.dev/repos/andwati)](https://badges.pufler.dev)
 [![wakatime](https://wakatime.com/badge/user/54c43dc6-77cf-4077-8356-ce4c25312870.svg)](https://wakatime.com/@54c43dc6-77cf-4077-8356-ce4c25312870)
 <br>
+
 ### Tech Stack
+
 <p align="center">
-  <img src="https://api.iconify.design/logos:figma.svg" height="48px" width="48px" align="center" />
-  <img src="https://api.iconify.design/logos:typescript-icon.svg" height="48px" width="48px" align="center" />
+
   <img src="https://api.iconify.design/vscode-icons:file-type-go-gopher.svg" height="48px" width="48px" align="center" />
-  <img src="https://api.iconify.design/logos:react.svg" height="48px" width="48px" align="center" />
-  <img src="https://api.iconify.design/vscode-icons:file-type-caddy.svg" height="48px" width="48px" align="center" />
-  <img src="https://api.iconify.design/vscode-icons:file-type-light-pnpm.svg" height="48px" width="48px" align="center" />
-  <img src="https://api.iconify.design/file-icons:nextjs.svg" height="48px" width="48px" align="center" />
-  <img src="https://api.iconify.design/logos:graphql.svg" height="48px" width="48px" align="center" />
+
 </p>
 
 ### Streaks :fire:
@@ -32,10 +29,8 @@
 ![Github stats](https://github-readme-stats.vercel.app/api?username=andwati&count_private=true&show_icons=true&theme=city_lights&hide_border=True)
 <br>
 
-<details>
-<summary>Top langs</summary>
-<br>
+### Top langs
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andwati&langs_count=10&layout=compact&theme=city_lights&hide_border=True)](https://github.com/anuraghazra/github-readme-stats)
- >Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-</details>
+
+> Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
