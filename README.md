@@ -13,11 +13,6 @@
 
 ### Tech Stack
 
-<p align="center">
-
-  <img src="https://api.iconify.design/vscode-icons:file-type-go-gopher.svg" height="48px" width="48px" align="center" />
-
-</p>
 
 ### Streaks :fire:
 
