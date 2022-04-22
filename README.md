@@ -11,8 +11,6 @@
 [![wakatime](https://wakatime.com/badge/user/54c43dc6-77cf-4077-8356-ce4c25312870.svg)](https://wakatime.com/@54c43dc6-77cf-4077-8356-ce4c25312870)
 <br>
 
-### Tech Stack
-
 
 ### Streaks :fire:
 
