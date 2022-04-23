@@ -24,5 +24,5 @@
 
 ### Top langs
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andwati&langs_count=10&layout=compact&theme=city_lights&hide_border=True)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andwati&langs_count=10&layout=compact&theme=city_lights&hide_border=True&hide=css,html)](https://github.com/anuraghazra/github-readme-stats)
 
