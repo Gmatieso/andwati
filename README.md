@@ -18,10 +18,10 @@
 
 ### Stats
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=andwati&count_private=true&show_icons=true&theme=city_lights&hide_border=True)
+![Github stats](https://github-readme-stats.vercel.app/api?username=andwati&count_private=true&show_icons=true&theme=city_lights)
 <br>
 
 ### Top langs
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andwati&langs_count=10&layout=compact&theme=city_lights&hide_border=True&hide=css,html,vue)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andwati&langs_count=10&layout=compact&theme=city_lights&hide=css,html,vue)](https://github.com/anuraghazra/github-readme-stats)
 
